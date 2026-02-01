@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Work.apk** is an Android application built using MIT App Inventor 2, a visual programming environment for creating Android applications. This APK was created by the developer `jagnerr15` and is named "Aula2" (Class 2), suggesting it was created as part of a learning or teaching project.
+**Work.apk** is an Android application built using MIT App Inventor 2, a visual programming environment for creating Android applications. This APK was created by the developer `Jagne Santiago` and is named "Aula2" (Class 2), suggesting and was created as part of a learning or teaching project.
 
 ## Application Details
 
@@ -286,7 +286,5 @@ For issues related to App Inventor applications, visit:
 - Material Design Guidelines: https://material.io/design
 
 ---
-
-**Note**: This documentation was generated based on static analysis of the APK file. Some features may require testing on an actual device to verify full functionality.
 
 **Last Updated**: February 1, 2026
