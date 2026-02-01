@@ -1,1 +1,0 @@
-Testing a social network and its tools, in an attempt to create an emphatic social network, still in the early stages. There are only three existing screens, such as the main screen, the settings screen and the social network screen, which is not ready.
